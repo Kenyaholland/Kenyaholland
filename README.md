@@ -9,7 +9,7 @@
 
 <h3>🛠 Computer Skills</h3>
 
-- 💻 &nbsp; C++ | C# | Java | Python | JavaFX
+- 💻 &nbsp; C++ | Java | C# | Python | JavaFX
 - 🌐 &nbsp; HTML | CSS | JavaScript | NodeJS
 - 🛢 &nbsp; MySQL | Docker 
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
