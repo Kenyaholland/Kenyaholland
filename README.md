@@ -3,9 +3,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; I’m currently a student at The University of West Florida studying Computer Science B.S. Graduate May 2022.
+- 💼 &nbsp; Currently a Software Engineer for Dynamic Software Solutions in Niceville, FL. Work with C# .NET Framework and C++.
+- 🎓 &nbsp; The University of West Florida Alumni Computer Science B.S. Graduated May 2022.
 - 🤔 &nbsp; Exploring new skills constantly. Passionate about learning.
-- 💼 &nbsp; Student Research Assistant in the Computer Science Department at The University of West Florida.
+- 💼 &nbsp; Former Student Research Assistant in the Computer Science Department at The University of West Florida.
 
 <h3>🛠 Computer Skills</h3>
 
